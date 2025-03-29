@@ -1,6 +1,3 @@
-# Full-fledged-Web-Application-for-Text-Voice-and-Video-Secure-Communication-on-Darkweb-or-Surface-Web
-This project initiative provides secure, isolated, and seamless communication and networking for I.T. or non-I.T. people who are concerned about their privacy. This Application provides text, voice notes, voice calls, video calls, file and data sharing, and global chat features. You can deploy this app on your own computer or cloud hosting. It can be deployed on the Dark Web.
-
 # Advanced Chat Application
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
@@ -43,7 +40,7 @@ A full-featured, secure chat application built with React, TypeScript, and Mater
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/alihamid5/Full-fledged-Web-Application-for-Text-Voice-and-Video-Secure-Communication-on-Darkweb-or-Surface-Web.git]
+   git clone https://github.com/yourusername/advanced-chat-app.git
    cd advanced-chat-app
    ```
 
@@ -234,7 +231,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Contributors
 
-- Muhammad Ali ([@alihamid5](https://github.com/alihamid5))
+- Your Name ([@yourusername](https://github.com/yourusername))
 
 ## 🤝 Contributing
 
