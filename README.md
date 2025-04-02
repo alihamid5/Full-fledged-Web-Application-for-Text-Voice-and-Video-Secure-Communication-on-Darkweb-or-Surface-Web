@@ -43,7 +43,7 @@ A full-featured, secure chat application built with React, TypeScript, and Mater
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-chat-app.git
+   git clone [https://github.com/alihamid5/Full-fledged-Web-Application-for-Text-Voice-and-Video-Secure-Communication-on-Darkweb-or-Surface-Web.git]
    cd advanced-chat-app
    ```
 
