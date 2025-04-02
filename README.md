@@ -1,5 +1,5 @@
 # Full-fledged-Web-Application-for-Text-Voice-and-Video-Secure-Communication-on-Darkweb-or-Surface-Web
-This project initiative is secure, isolated and seamless communication and networking for normal people who concernd about thier privacy. This Application provide text, voice note, voice call, video call, file and data sharing and global chat features. you can deploy this app on your own computer or cloud hosting. It can be deployed on Dark Web.
+This project initiative provides secure, isolated, and seamless communication and networking for I.T. or non-I.T. people who are concerned about their privacy. This Application provides text, voice notes, voice calls, video calls, file and data sharing, and global chat features. You can deploy this app on your own computer or cloud hosting. It can be deployed on the Dark Web.
 
 # Advanced Chat Application
 
